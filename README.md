@@ -1,2 +1,4 @@
 # premium-dot-smoothbrains-xyz
-Official Premium Code for SmoothBrains
+## Features:
+- Premium Plans
+- Gives a "key" which user can input to redeem their premium.
